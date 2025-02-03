@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **veterinaria-app**
+- 🔭 I’m currently working on **DEV-CODES**
 
 - 🌱 I’m currently learning **Angular,React**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/javiro76](https://linktr.ee/javiro76)
+- 👨‍💻 All of my projects are available at [My Web Page](https://668d6a3acc0e7ea4c58daf92--codewithjavi.netlify.app/)
 
-- 💬 Ask me about **Angular, JavaScript**
+- 💬 Ask me about **Frontend Developer | React | Typescript | MongoDB | Azure | GitLab | TailwindCSS | MaterialUI | Node | Express | Web Developer**
 
 - 📫 How to reach me **javiro76@gmail.com**
 
